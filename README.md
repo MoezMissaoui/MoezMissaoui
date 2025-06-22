@@ -1,9 +1,12 @@
 # Hi there, I'm Moez Missaoui 👋
+<p align="center">
+
+  
 
 <a href="https://moezmissaoui.com" target="_blank">
   <img align="center" src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="Coding Banner" />
 </a>
-  
+  </p>
 <br/>
 
 I'm a passionate and experienced Full-Stack PHP Developer with a strong focus on building robust and scalable web applications. With over 7 years in the field, I've mastered frameworks like **Laravel** and **CodeIgniter** and have extensive experience with **WordPress**.
